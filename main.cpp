@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int findSecondLargest(int arr[], int size) {
@@ -47,6 +46,6 @@ int main() {
 
     cout << "The second largest number in the array is: " << secondLargest << endl;
     cout << "The third largest number in the array is: " << thirdLargest << endl;
-
+    
     return 0;
 }
